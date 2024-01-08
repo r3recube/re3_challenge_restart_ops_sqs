@@ -58,7 +58,7 @@ This bonus requirement is aimed at candidates who are comfortable with DevOps pr
 - Check CloudWatch logs to review the logs sent by the EC2 instances for message content or errors.
 
 ## Deliverables
-Candidates are required to submit the URL of a Git repository containing all the project components.
+Candidates are required to submit the URL of a Git repository containing all the project components (you can clone this repository).
 The repository should include:
 - README.md file with detailed documentation of the setup process, configurations, and test results.
 - Source code for the Producer and Consumer Python scripts.
