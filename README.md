@@ -3,6 +3,9 @@ This exercise involves setting up an AWS environment where EC2 instances scale b
 
 ## Requirements
 This task tests AWS service integration, Python scripting, and understanding of autoscaling principles.
+- Candidates must successfully complete the mandatory tasks to progress in the hiring process, demonstrating fundamental AWS and Python skills essential for the role. 
+- Optional tasks are there for earning additional points, showing a deeper understanding and broader skill set. 
+- The bonus task is specifically for those who want to showcase advanced knowledge in infrastructure automation and DevOps practices, going above the basic requirements.
 
 ### Mandatory requirements
 Essential tasks that test the core competencies required for the position. These include setting up the AWS infrastructure, writing the basic producer and consumer scripts using python, and configuring auto-scaling based on SQS messages. These tasks assess the candidate's fundamental skills in AWS services, Python scripting, and understanding of cloud architecture.
@@ -64,14 +67,3 @@ The repository should include:
 - A report file containing the test process and observations, including screenshots, logs, and metrics.
 
 Candidates should ensure that their Git repository is well-organized and includes comprehensive documentation to demonstrate their work effectively. This approach allows for an efficient review process and provides a clear understanding of the candidate's technical abilities and approach to problem-solving.
-
-
-
-
-
-
-
-- Python code of producer script
-- Python code of consumer script
-- Terraform or Cloudformation Template (if any)
-- Autoscaling 
